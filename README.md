@@ -1,6 +1,6 @@
 # NPC: Neighbors' Progressive Competition
 
-This is the Matlab implementation of "NPC: Neighbors Progressive Competition Algorithm for Classification of Imbalanced Data Sets" paper by Soroush Saryazdi, Bahareh Nikpour and Hossein Nezamabadi-pour. This paper has been accepted in Signal Processing and Intelligent Systems (ICSPIS), International Conference of IEEE, 2017. For more details and the pseudo code of this method please refer to the arXiv preprint version of this paper which can be found here: [<a target="_blank" href="https://arxiv.org/abs/1711.10934">arXiv Preprint</a>]
+This is the Matlab implementation of "NPC: Neighbors Progressive Competition Algorithm for Classification of Imbalanced Data Sets" paper by Soroush Saryazdi, Bahareh Nikpour and Hossein Nezamabadi-pour. This paper has been accepted in Signal Processing and Intelligent Systems (ICSPIS), International Conference of IEEE, 2017. For more details and the pseudo code of this method please refer to the arXiv preprint version of this paper which can be found here: [<a href="https://arxiv.org/abs/1711.10934" target="_blank">arXiv Preprint</a>]
 
 <h2>---- Code Instructions ----</h2>
 
